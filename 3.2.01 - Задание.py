@@ -1,5 +1,5 @@
-import password.modul.func as f
-import password.data.users as u
+import files.password.modul.func as f
+import files.password.data.users as u
 
 flag = True
 while flag:

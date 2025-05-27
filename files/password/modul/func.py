@@ -1,5 +1,5 @@
-import password.data.users as u
-import password.modul.decorator as d
+import files.password.data.users as u
+import files.password.modul.decorator as d
 
 
 def registration(name, psw, lst=u.users):
